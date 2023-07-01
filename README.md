@@ -5,12 +5,7 @@
 
 ## About me
 
-- ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+28k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+Mobile Developer with 1 years of experience in mobile app development. Proficient in developing mobile applications for iOS and Android platforms. I enjoy creating applications always focusing on their design and applying clean code principles.
 <br>
 
 ## Mis proyectos 
