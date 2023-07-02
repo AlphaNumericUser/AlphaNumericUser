@@ -8,7 +8,7 @@
 Mobile Developer with 1 years of experience in mobile app development. Proficient in developing mobile applications for iOS and Android platforms. I enjoy creating applications always focusing on their design and applying clean code principles.
 <br>
 
-## Mis proyectos 
+## My projects
 
 _I love to make projects to increase my technical skills and keep learning about new technologies. Here are some of my best projects._
 
@@ -21,10 +21,10 @@ _I love to make projects to increase my technical skills and keep learning about
 
 <!-- LENGUAJES Y HERRAMIENTAS -->
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+<a href="https://es.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40" height="40"/>
 </a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+<a href="https://dart.dev/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" width="40" height="40"/>
 </a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
@@ -36,7 +36,7 @@ _I love to make projects to increase my technical skills and keep learning about
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<a href="https://github.com/github" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Github_logo_svg.svg" alt="git" width="40" height="40"/>
 </a>
 
