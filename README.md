@@ -21,7 +21,7 @@ _I love to make projects to increase my technical skills and keep learning about
 
 <!-- LENGUAJES Y HERRAMIENTAS -->
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://es.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer">
+<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40" height="40"/>
 </a>
 <a href="https://dart.dev/" target="_blank" rel="noreferrer">
