@@ -15,7 +15,7 @@ _I love to make projects to increase my technical skills and keep learning about
 - [Ghibli Tracker: Rate and discover your favorites Ghibli's movies](https://github.com/C10-Ghibli-s/FE-Studio-Ghibli-Tracker)
 - [Ghibli Backoffice: Manage and make CRUD for all content from Ghibli Tracker](https://github.com/C10-Ghibli-s/FE-Backoffice)
 - [Creation of an API/DATABASE deployed on heroku using Express JS and PostgreSQL](https://github.com/ivangcode/expressJS)
-- [E-commerce platform building in Next.js](https://github.com/ivangcode/react-store)
+- [TikTok on Flutter](https://github.com/AlphaNumericUser/Videos-toktik)
 - [Counter on Flutter](https://github.com/AlphaNumericUser/Counter)                                                                              
 </div>
 
