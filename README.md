@@ -10,10 +10,8 @@ Mobile Developer with 1 years of experience in mobile app development. Proficien
 
 ## My projects
 
-_I love to make projects to increase my technical skills and keep learning about new technologies. Here are some of my best projects._
+_I love to make projects to increase my technical skills and keep learning about new technologies. Here are some of my projects._
 
-- [Ghibli Tracker: Rate and discover your favorites Ghibli's movies](https://github.com/C10-Ghibli-s/FE-Studio-Ghibli-Tracker)
-- [Ghibli Backoffice: Manage and make CRUD for all content from Ghibli Tracker](https://github.com/C10-Ghibli-s/FE-Backoffice)
 - [Calculator on Flutter](https://github.com/AlphaNumericUser/Calculator-App)
 - [TikTok on Flutter](https://github.com/AlphaNumericUser/Videos-toktik)
 - [Counter on Flutter](https://github.com/AlphaNumericUser/Counter)                                                                              
