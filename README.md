@@ -12,6 +12,7 @@ Mobile Developer with 1 years of experience in mobile app development. Proficien
 
 _I love to make projects to increase my technical skills and keep learning about new technologies. Here are some of my projects._
 
+- [Cinemapedia on Flutter](https://github.com/AlphaNumericUser/cinemapedia)
 - [Yes No Chat on Flutter](https://github.com/AlphaNumericUser/yes-no-app)
 - [Calculator on Flutter](https://github.com/AlphaNumericUser/Calculator-App)
 - [TikTok on Flutter](https://github.com/AlphaNumericUser/Videos-toktik)
