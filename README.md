@@ -3,7 +3,7 @@
 </div>
 <img src="https://i.imgur.com/zKsEKjc.png">
 
-## About me
+## About me 
 
 Mobile Developer with 1 year of experience in mobile app development. Proficient in developing mobile applications for iOS and Android platforms. I enjoy creating applications always focusing on their design and applying clean code principles.
 <br>
