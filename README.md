@@ -15,7 +15,6 @@ _I love to make projects to increase my technical skills and keep learning about
 - [Cinemapedia on Flutter](https://github.com/AlphaNumericUser/cinemapedia)
 - [Unit Converter](https://github.com/AlphaNumericUser/conversor-v1.git)
 - [Yes No Chat on Flutter](https://github.com/AlphaNumericUser/yes-no-app)
-- [Calculator on Flutter](https://github.com/AlphaNumericUser/Calculator-App)
 - [TikTok on Flutter](https://github.com/AlphaNumericUser/Videos-toktik)                                                                             
 </div>
 
