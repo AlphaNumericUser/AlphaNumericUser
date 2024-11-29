@@ -12,10 +12,10 @@ I love create software
 
 _I love to make projects to increase my technical skills and keep learning about new technologies. Here are some of my projects._
 
-- [Archeoexplorer on Flutter](https://archeoexplorer.org)
-- [Cinemapedia on Flutter](https://github.com/AlphaNumericUser/cinemapedia)
+- [BG Removal](https://prismatic-torrone-638c7c.netlify.app/)
 - [Yes No Chat on Flutter](https://github.com/AlphaNumericUser/yes-no-app)
-- [TikTok on Flutter](https://github.com/AlphaNumericUser/Videos-toktik)                                                                             
+- [TikTok on Flutter](https://github.com/AlphaNumericUser/Videos-toktik)
+- [Archeoexplorer on Flutter](https://archeoexplorer.org)
 </div>
 
 <!-- LENGUAJES Y HERRAMIENTAS -->
