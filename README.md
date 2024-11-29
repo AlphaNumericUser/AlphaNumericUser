@@ -20,24 +20,9 @@ _I love to make projects to increase my technical skills and keep learning about
 
 <!-- LENGUAJES Y HERRAMIENTAS -->
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://es.wikipedia.org/wiki/Python" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1920px-Python-logo-notext.svg.png" width="40" height="40"/>
-</a>
-<a href="https://dart.dev/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" width="40" height="40"/>
-</a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" alt="flutter" width="40" height="40"/>
-</a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="visual_studio_code" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-<a href="https://github.com/github" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Github_logo_svg.svg" alt="git" width="40" height="40"/>
-</a>
+
+<img src="https://skillicons.dev/icons?i=py,dart,flutter,html,css,js,react" /><br>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman," /><br>
 
 
 ### ⚙️ &nbsp;GitHub Analytics
