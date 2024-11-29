@@ -13,7 +13,7 @@ I love create software
 _I love to make projects to increase my technical skills and keep learning about new technologies. Here are some of my projects._
 
 - [BG Removal](https://prismatic-torrone-638c7c.netlify.app/)
-- [Apple Website Clone](https://prismatic-torrone-638c7c.netlify.app/)
+- [Apple Website Clone](https://lucky-horse-88708e.netlify.app/)
 - [Gemini Clone](https://gemini-clone-alfredo.netlify.app/)
 - [Archeoexplorer](https://archeoexplorer.org)
 </div>
