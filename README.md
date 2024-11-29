@@ -21,8 +21,8 @@ _I love to make projects to increase my technical skills and keep learning about
 <!-- LENGUAJES Y HERRAMIENTAS -->
 <h3 align="left">Languages and Tools:</h3>
 
-<img src="https://skillicons.dev/icons?i=py,dart,flutter,html,css,js,react" /><br>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman," /><br>
+<img src="https://skillicons.dev/icons?i=py,dart,flutter,html,css,js,react,nodejs,express" /><br>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,firebase,vite" /><br>
 
 
 ### ⚙️ &nbsp;GitHub Analytics
